@@ -6,6 +6,8 @@
 
 ##URL for streamlit website deployed
 - URL : https://jobshield-fakejob-posts-detection.streamlit.app/
+<br>
+<br>
 ##Dataset
 -Base Dataset: fake_job_postings.csv containing real and fraudulent job listings.
 -Feedback Dataset: user_feedback.csv stores user-provided corrections for model improvement.
@@ -67,3 +69,4 @@ Preprocessing:
 ##Author
 -Ritika Bhasin
 -student at IPU'28, Btech-IT
+
